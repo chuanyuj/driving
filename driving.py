@@ -11,3 +11,5 @@ elif country == 'US':
 		print('你可以考駕照')
 	else:
 		print('你還不能考駕照')
+else:
+	print('程式目前無法判斷')
